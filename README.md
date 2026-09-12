@@ -1,4 +1,4 @@
-# 📊 Superstore Sales Analysis Dashboard
+# 📊 Superstore Sales Analysis Dashboard | Excel
 
 An interactive sales analysis dashboard developed in Microsoft Excel to transform Superstore sales data into meaningful business insights through KPIs, interactive filters, Pivot Tables, Pivot Charts, and data visualization.
 
